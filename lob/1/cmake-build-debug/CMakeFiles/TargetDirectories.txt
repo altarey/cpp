@@ -1,0 +1,3 @@
+/Volumes/Projects/altarey/Corp/cpp/lob/1/cmake-build-debug/CMakeFiles/c__.dir
+/Volumes/Projects/altarey/Corp/cpp/lob/1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/Projects/altarey/Corp/cpp/lob/1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
